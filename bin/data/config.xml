@@ -1,0 +1,4 @@
+<SHUTDOWN_SETTING>
+	<SHUTDOWN weekday="12345" time="1300"/>
+	<SHUTDOWN weekday="60" time="1900"/>
+</SHUTDOWN_SETTING>
